@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artur Borysewicz / S1lvia
-- 👀 I’m interested in C++, C#, JavaScript, Html & Css
+- 👀 I’m interested in C++ & Python
 - 📫 Discord: 2001artur05
 
 
